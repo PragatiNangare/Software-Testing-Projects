@@ -162,12 +162,9 @@ This project demonstrates end-to-end **manual testing** of the AgileWay Travel f
 ---
 
 
-
-
----
-
 ## Notes
 - This project is created for learning and skill demonstration purposes  
 - All test data used is dummy data  
 - No real transactions were performed  
+
 
