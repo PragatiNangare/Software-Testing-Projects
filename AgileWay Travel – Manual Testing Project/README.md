@@ -161,12 +161,7 @@ This project demonstrates end-to-end **manual testing** of the AgileWay Travel f
 
 ---
 
-## Repository Structure
-agileway-travel-manual-testing/
-├── README.md
-├── Test_Cases_Complete.xlsx
-├── Bug_Report_AgileWay_Travel.pdf
-└── screenshots/
+
 
 
 ---
@@ -175,3 +170,4 @@ agileway-travel-manual-testing/
 - This project is created for learning and skill demonstration purposes  
 - All test data used is dummy data  
 - No real transactions were performed  
+
