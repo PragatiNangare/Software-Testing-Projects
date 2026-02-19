@@ -99,7 +99,7 @@ pm.test("Response time is less than 2000ms", function () {
 ---
 
 
-## 📊 Sample Test Results
+## 📊 Test Results
 
 | Test | Status |
 |------|--------|
